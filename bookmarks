@@ -1,0 +1,10 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-refile-last-stored"
+ (filename . "~/.emacs.d/tutorial/orgomode.org")
+ (front-context-string . "** Secondo test\n")
+ (rear-context-string . "stesso livelli.\n")
+ (position . 263))
+)

@@ -1,0 +1,14 @@
+#+STARTUP: indent
+* Orgmode tutorial
+** Primo video 
+Ogni headline comincia con uno o piu' *
+Tabulaizone cambia la visibilita' di una headline.
+Si aumenta o diminuisce il livello con alt + freccia sinistra e destra.
+alt + freccia sposta ordine di headline dello stesso livelli.
+c-c c-w sposta una headline sotto un'altra di livello superiore.
+** Secondo video
+DEADLINE: <2021-08-31 Tue> SCHEDULED: <2021-08-17 Tue>
+Si definisce una headline come essere fatta con shift + freccia destra o sinistra.
+Si attivano diverse con #+SEQ_TODO separate da una pipe.
+
+* Test
